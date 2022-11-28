@@ -16,7 +16,7 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
   boot:
-    message: 'Hello, Employee Service'
+    message: 'Hello, Employee Service Spring Cloud Bus Demo'
 
 eureka:
   instance:
