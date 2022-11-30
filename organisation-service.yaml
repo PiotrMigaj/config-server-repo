@@ -4,7 +4,7 @@ server:
 spring:
   datasource:
     username: root
-    password: Stefan0987
+    password: migi987
     url: jdbc:mysql://localhost/organisation_db?serverTimezone=Europe/Warsaw&createDatabaseIfNotExist=true
   jpa:
     hibernate:
